@@ -15,7 +15,7 @@ import java.util.Iterator;
 public class Add {
 
     public static void main(String[] args) {
-        //Creando estudiantes de programación 2 de la UPB
+        //Creando estudiantes de programación 2 de la UPB 
         Estudiante persona1 = new Estudiante("Kevin");
         Estudiante persona2 = new Estudiante("Angie");
         Estudiante persona3 = new Estudiante("Andrés");
